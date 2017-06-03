@@ -1,8 +1,8 @@
-# GamePrototype
-Game Prototyping with Phaser JS Gaming Framework -- building 100s of games using Phaser JS Gaming Framework
+# GamePrototype with Phaser JS Gaming Framework
+building 100s of games using Phaser JS Gaming Framework
 ==========================  
-Adventurers of Renown&trade; - The Ruins of Abe-Wyvern  
-==========================  
+##Adventurers of Renown&trade; - The Ruins of Abe-Wyvern  
+-------------------------------------------------------------------------  
 File Name: Main.js  
 Game Demo URL: http://www.adventurers-of-renown.com/GAMEAPP/index.html  
 Description: File for controlling and displaying game scenes; managing  global variables throughout game state.  
@@ -30,3 +30,7 @@ Redistribution of part or whole of this file and the accompanying files is stric
 This is a simple HTML5 RPG Blueprint using the Phaser JS Game Framework.  Phase JS provides a SCRUM Game prototyping for game mechanics and mechanisms.  
   
 The game construction follows the [Game Prototyping using Phaser JavaScript Game Framework Workbook](https://leanpub.com/LoRD) available at Leanpub.com  
+
+##License
+-------------------------------------------------------------------------  
+This is a licensed permission file.
